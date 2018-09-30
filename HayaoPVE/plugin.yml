@@ -1,0 +1,94 @@
+name: HayaoPVE
+main: HayaoPVE\main
+version: 1.0
+api: [3.1.2, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA12, 4.0.0]
+author: hayao
+commands:
+  kyouka:
+    description: "アイテム強化"
+    permission: op
+
+  id:
+    description: "ItemID"
+    permission: op
+
+  reset:
+    description: "座標"
+    permission: op
+
+  xyz:
+    description: "XYZ"
+    permission: op
+
+  money:
+    description: "所持金"
+
+  pay:
+    description: "お金交換"
+    permission: op
+
+  seemoney:
+    description: "所持金見る"
+    permission: op
+
+  addmoney:
+    description: "お金増やす"
+    permission: op
+
+  removemoney:
+    description: "お金減らす"
+    permission: op
+
+  setmoney:
+    description: "お金ｾｯﾄ"
+    permission: op
+
+  sell:
+    description: "アイテム売却"
+    permission: op
+
+  warp:
+    description: "Warp機能"
+    permission: op
+
+  relog:
+    description: "リログ"
+
+  item:
+    description: "item"
+    permission: op
+
+  fly:
+    description: "aaa"
+    permission: op
+
+  hide:
+    description: "監視"
+    permission: op
+
+  ss:
+    description: "強化石保存コマンド"
+
+  addExp:
+    description: "addEXP"
+    permission: op
+
+  checktag:
+    description: jishdfuygfd
+    permission: op
+
+  tapxyz:
+    description: "TapXYZ"
+    permission: op
+
+  atk:
+    description: "ATK"
+    permission: op
+
+  addPoint:
+    description: "StatusPoint"
+    permission: op
+
+  addOrb:
+    description: "Orb"
+    permission: op

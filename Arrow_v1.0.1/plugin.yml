@@ -1,0 +1,4 @@
+name: Arrow
+main: Arrow\Main
+version: 1.0.1
+api: [2.0.0, 3.0.0, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA12, 4.0.0, 3.1.2]
