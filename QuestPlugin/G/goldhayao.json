@@ -1,0 +1,7 @@
+---
+greenmonster.kill:
+  quest: greenmonster.kill
+  max: 10
+  now: 10
+  finish: 2
+...

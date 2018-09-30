@@ -1,0 +1,23 @@
+---
+-7:13:169:world:
+  x: -7
+  "y": 13
+  z: 169
+  level: world
+  money: "1000"
+  rank: はしご
+-6:9:68:world:
+  x: -6
+  "y": 9
+  z: 68
+  level: world
+  money: "1500"
+  rank: フェンス
+-24:16:169:world:
+  x: -24
+  "y": 16
+  z: 169
+  level: world
+  money: "5000"
+  rank: 透明
+...

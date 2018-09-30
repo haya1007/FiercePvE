@@ -1,0 +1,5 @@
+name: QuestPlugin
+main: quest\main
+api: [4.0.0, 3.1.2]
+version: 1.0
+author: hayao

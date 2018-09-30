@@ -1,0 +1,11 @@
+name: SettingHome
+main: SettingHome\main
+version: 1.0
+api: [4.0.0, 3.1.2]
+author: hayao
+commands:
+  home:
+    description: "homeワープ"
+
+  sethome:
+    description: "homeセット"

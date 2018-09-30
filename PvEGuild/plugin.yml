@@ -1,0 +1,8 @@
+name: PvEGuild
+main: hayao\main
+version: 1.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 4.0.0, 3.1.2]
+author: hayao
+commands:
+  guild:
+    description: "Guild機能"
